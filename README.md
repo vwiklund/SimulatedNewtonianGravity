@@ -1,2 +1,2 @@
 #SimulatedNewtonianGravity
-My readme
+Chalmers Labb4 Teknisk Fysik
